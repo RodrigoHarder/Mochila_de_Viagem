@@ -22,10 +22,6 @@ Desenvolvimento do projeto mochila de viagem, desenvolvido ao longo do curso de�
 - Uso de splice para apagar itens da lista;
 - Aplicação das seguintes propriedades: `.splice` , `.target` , `.find` ,`.findIndex` , `.value`, `.push` , `.innerHTML`, `.addEventListener` , `.parentNode` , `.preventDefault`;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/viagem/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
